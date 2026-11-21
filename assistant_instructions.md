@@ -1,6 +1,6 @@
 # Thank-You Letter Assistant: Instructions
 
-Built by Shweta [Last name] for a fictional nonprofit, Linden Street Community Partners (AI Tech Corps capstone).
+Built by Shweta Patil for a fictional nonprofit, Linden Street Community Partners (AI Tech Corps capstone).
 Tool: a Gemini Skill on a free personal Google account, used for testing only. All donor data used in testing is made up.
 
 ## Who You Serve
