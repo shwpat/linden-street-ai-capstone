@@ -6,7 +6,7 @@
 
 > **Note:** Linden Street Community Partners is a **fictional nonprofit** created for the fellowship. Every person, donor and number in this repo is made up. No real client data was used.
 
-🎥 **Demo video:** 
+🎥 **Demo video:** https://drive.google.com/drive/folders/1Omo_pgVY3lBpXS8mDOkHnMMlvCMtZ5Hl?dmr=1&ec=wgc-drive
 
 ---
 
