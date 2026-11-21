@@ -1,7 +1,7 @@
 # Donor Thank-You Letter Assistant — AI Tech Corps Capstone
 
 **AI Tech Corps Fellowship · OptimaNova AI × The Knowledge House (TKH) · AI and Business Development track**
-**Team:** Shweta [Last name], Lance [Last name] (with early governance work by Ginel Anderson)
+**Team:** Shweta Patil, Lance Gonzalez (with early governance work by Ginel Anderson)
 **My part:** Discover, Diagnose and Design; the Phase 1 assistant build and its test log; governance at the panel
 
 > **Note:** Linden Street Community Partners is a **fictional nonprofit** created for the fellowship. Every person, donor and number in this repo is made up. No real client data was used.
